@@ -1,2 +1,2 @@
 # gitrepeat
-unesimo neki tekst
+Drugi unos
